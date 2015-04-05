@@ -1,0 +1,42 @@
+
+.content {
+ position: absolute;
+    margin: 0px 200px 0px 200px;
+    top: 0px;
+    width: 1000px;
+    height: 800px;
+}
+
+
+.up {
+    position: fixed;
+    background:#8fc2fd;
+    width: 1000px;
+    height: 100px;
+    }
+
+.ava img{
+ border-radius: 50%;
+ margin: 20px;
+}
+
+.ava h4{
+    
+    margin: -50 80;
+    
+}
+
+h4 { font-family: 'Roboto', sans-serif; font-weight: 300; }
+
+.search {
+    
+    margin: 25 800;
+    
+}
+
+.but {
+    
+    margin: -18 140
+    
+}
+
