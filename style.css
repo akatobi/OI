@@ -1,7 +1,7 @@
 
 .content {
  position: absolute;
-    margin: 0px 200px 0px 200px;
+    margin: 0 150 0 150;
     top: 0px;
     width: 1000px;
     height: 800px;
@@ -13,7 +13,14 @@
     background:#8fc2fd;
     width: 1000px;
     height: 100px;
-    }
+    z-index: 2;
+}
+
+.down {
+    position: relative;
+    margin: 100 0;
+    z-index: 1;
+}
 
 .ava img{
  border-radius: 50%;
@@ -37,6 +44,13 @@ h4 { font-family: 'Roboto', sans-serif; font-weight: 300; }
 .but {
     
     margin: -18 140
+    
+}
+
+.avatar {
+    
+ border-radius: 50%;   
+    
     
 }
 
