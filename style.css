@@ -10,7 +10,7 @@
 
 .up {
     position: fixed;
-    background:#8fc2fd;
+    background:rgba(120, 182, 255, 0.84);
     width: 1000px;
     height: 100px;
     z-index: 2;
